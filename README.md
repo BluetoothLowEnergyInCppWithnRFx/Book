@@ -7,7 +7,7 @@ If you find these examples helpful and you haven't purchased the book, please co
 
 - Tony Gaitatzis (<backupbrain@gmail.com>)
 
-![BookCover](Bluetooth%20Low%20Energy%20in%20CC%2B%2B%20with%20nRFx%20Cover.png)
+![BookCover](Bluetooth%20Low%20Energy%20in%20C%2B%2B%20with%20nRFx%20Cover.png)
 
 ISBN: 978-1-7751280-3-8
 
